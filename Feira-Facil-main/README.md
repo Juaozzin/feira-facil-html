@@ -1,0 +1,2 @@
+# Feira-Facil
+Projeto voltado ao controle de estoque,faturamento,prospecção de lucros,visualização de dados,registro e tendencias da região.De forma simples e de facil compreensão, ele mostrara para os usuario as coisas que tem mais vendido e sido compradas pelas pessoas na região escolhida, dessaforma,mostrando as possibilidaes de melhor vendas e de futuros planejamentos de estoque para todos aqueles que não souberem qual a possivel melhor opção do que comprar para fins que desejar. (revende,palntar,etc.) 
